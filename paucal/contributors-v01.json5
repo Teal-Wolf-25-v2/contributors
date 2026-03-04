@@ -1,616 +1,618 @@
-// This is loaded by my library mod PAUCAL on game startup and is used for
-// contributor rewards
-
-// https://gameplay.tools/minecraft/uuid
-// sadly has people's deadnames on it :(
-
-// petra_the_kat
-"a2ce9382-2518-4752-87b2-c6a5c97f173e": {
-  "paucal:contributor_level": 7604,
-  "paucal:is_dev": true,
-
-  "paucal:pat_sound": "minecraft:note/bit",
-  "paucal:pat_variance": 0.1,
-  "hexcasting:colorizer": [0xebad1c, 0xc7c7bd, 0x7c2e94, 0x2e060f],
-},
-
-// Dev (forge dummy player)
-"380df991-f603-344c-a090-369bad2a924a": {
-  "paucal:contributor_level": 4,
-  "paucal:is_dev": true,
-  "paucal:pat_sound": ["bwop", "minecraft:note/bit"],
-  "paucal:pat_variance": 0.1,
-},
-
-// =====
-// DEVS
-// =====
-
-// AmyMialee
-"2793cdc6-7710-4e7e-9d81-cf918e067729": { 
-  "paucal:contributor_level": 0,
-  "paucal:is_dev": true,
-  "hexcasting:colorizer": [0xb992ff],
-},
-
-// Alwinfy
-"64f6e5fc-981c-442c-8d6a-578e8e8cbcd3": {
-  "paucal:contributor_level": 0,
-  "paucal:is_dev": true,
-  "hexcasting:colorizer": [0x3327e3],
-},
-
-// Hubry
-"b0a26f6b-d951-4b65-b824-b164b9bc4b90": {
-  "paucal:contributor_level": 0,
-  "paucal:is_dev": true,
-  "hexcasting:colorizer": [0x10e810, 0xe97dff, 0x33ffff],
-},
-
-// Falkory
-"d30d8e38-6f93-4d96-968d-dd6ec5596941": {
-  "paucal:contributor_level": 0,
-  "paucal:is_dev": true,
-  "paucal:pat_sound": "minecraft:mob/wolf/panting",
-  "hexcasting:colorizer": [0xa11420, 0x291d2b],
-},
-
-// samsthenerd
-"6f07899c-2b26-4221-8033-1f53f7a0e111": {
-  "paucal:contributor_level": 0,
-  "paucal:is_dev": true,
-  "hexcasting:colorizer": [0x69eb96, 0xeb69d7],
-},
-
-// vgskye
-"866defaa-cf7a-47c8-9586-2707c84f240c": {
-  "paucal:contributor_level": 0,
-  "paucal:is_dev": true,
-  "hexcasting:colorizer": [0x55b9a3, 0x24917c],
-  "paucal:pat_sound": [
-    "minecraft:mob/fox/idle1",
-    "minecraft:mob/fox/idle2",
-    "minecraft:mob/fox/idle3",
-    "minecraft:mob/fox/idle4",
-    "minecraft:mob/fox/idle5",
-    "minecraft:mob/fox/idle6",
-  ],
-},
-
-// Navarchus_ (ratman)
-"67443c2e-5c7c-40b9-85bc-8dc5190b44f8": {
-  "paucal:contributor_level": 0,
-  "paucal:is_dev": true,
-  "hexcasting:colorizer": [0xbd4cf8],
-  "paucal:pat_sound": [
-    "minecraft:mob/bat/idle1",
-    "minecraft:mob/bat/idle2",
-    "minecraft:mob/bat/idle3",
-    "minecraft:mob/bat/idle4",
-  ],
-}
-
-// =====
-// PATRONS
-// ====
-
-// artemisSystem
-"e96fa4b4-ece6-4a00-b144-1946ba9e31ec": {
-  "paucal:contributor_level": 3,
-  "paucal:pat_sound": "minecraft:note/bit",
-  "hexcasting:colorizer": [0xeb92ea, 0xffffff, 0x6ac2e4],
-},
-
-// TaterBlight
-"83d0744b-6769-4cb9-9b27-d4dea603dd28": {
-  "paucal:contributor_level": 4,
-  "paucal:pat_sound": "splat",
-  "hexcasting:colorizer": [0x4c345c],
-},
-
-// SpottyTheTurtle
-"c5e9fe6f-93aa-4b64-83b7-5a617e359757": {
-  "paucal:contributor_level": 4,
-  // technically they shouldn't have a colorizer
-  // but i'l give it to them for running the server
-  "hexcasting:colorizer": [0xfd8f38],
-},
-
-// techtime4 / Ceql
-"43b4ed05-42a8-420b-8e9c-5e374267e9e9": {
-  "paucal:contributor_level": 1,
-  // They can still redeem a colorizer
-},
-
-// WildOats (stevebutnottoomanypeoplehaveit)
-"968e572c-a6c1-4963-8399-0c64abd3820e": {
-  "paucal:contributor_level": 2,
-  "hexcasting:colorizer": [0x5f118a, 0x411db8],
-},
-
-// 4984
-"2b8e38f6-448c-4e23-876e-ed65336d6388": {
-  "paucal:contributor_level": 1,
-},
-
-// KirinDave
-"99a814a0-bff4-4526-bee6-4af5c74a6824": {
-  "paucal:contributor_level": 2,
-  "hexcasting:colorizer": [
-    0x000872, 0x651e5f, 0x902d40, 0xa83c22, 0xba5f1a, 0xdf9000
-  ],
-},
-
-// Kurotsune
-"661ca73d-cfe5-488c-a3e9-b9714c06660f": {
-  "paucal:contributor_level": 2,
-  "hexcasting:colorizer": [0xaa0000, 0x0, 0x0050ff, 0x0],
-},
-
-// Dxier
-"eda175aa-7bb0-4ff5-b787-c5466baa1237": {
-  "paucal:contributor_level": 3,
-  "paucal:pat_sound": "minecraft:random/click",
-  "paucal:pat_variance": 0.1
-  // Still needs colors
-},
-
-// Hudeler
-"23978392-a78c-49cf-9f52-35a151fd4083": {
-  "paucal:contributor_level": 3,
-  "hexcasting:colorizer": [3544165, 4461376, 9437240],
-  "paucal:pat_sound": [
-    "minecraft:mob/endermen/idle1",
-    "minecraft:mob/endermen/idle2",
-    "minecraft:mob/endermen/idle3",
-    "minecraft:mob/endermen/idle4",
-  ],
-  "paucal:pat_pitch": 0.8,
-  "paucal:pat_variance": 0.1
-},
-// Hudelery, their alt
-"7f21f2c5-4ee8-45a8-9e11-714b3af373b3": {
-  "paucal:contributor_level": 3,
-  "hexcasting:colorizer": [3544165, 4461376, 9437240],
-  "paucal:pat_sound": [
-    "minecraft:mob/cat/purr1",
-    "minecraft:mob/cat/purr2",
-    "minecraft:mob/cat/purr3",
-  ],
-},
-
-// foulfortunfeline
-"f33801ef-0891-4b2d-951b-8b9503e24816": {
-  "paucal:contributor_level": 3,
-  "paucal:pat_sound": [
-    "minecraft:mob/cat/purr1",
-    "minecraft:mob/cat/purr2",
-    "minecraft:mob/cat/purr3",
-  ],
-  "hexcasting:colorizer": [0xff39f1, 0x8b00db, 0xff38c7, 0x650072],
-},
-
-// AnkhLord
-"caabdb4f-9772-476a-8545-c1118c71ffb1": {
-  "paucal:contributor_level": 2,
-  "hexcasting:colorizer": [0x00c3ff, 0x0044ff, 0x3b00ff, 0x0],
-},
-
-// object_Object
-"cd274e7b-ae7f-4aa3-a8da-b3ba5b896c8b": {
-  "paucal:contributor_level": 2,
-  "paucal:pat_sound": ["hexbug"],
-  "hexcasting:colorizer": [0xffffff, 0x0080ff],
-},
-
-// gchpacho
-"a1c40d68-8734-4e16-9716-69c63bea6f15": {
-  "paucal:contributor_level": 2,
-  "hexcasting:colorizer": [0x314267],
-},
-
-// Kinomoru
-"eec9c96b-d30b-4e1f-b38b-a9985c2c9118": {
-  "paucal:contributor_level": 2,
-  "hexcasting:colorizer": [0x6495D9, 0x99DAD2, 0x5850A2],
-},
-
-// PhantomEnderium
-"5ed4a488-71ee-471b-bb19-68e738ddffc8": {
-  "paucal:contributor_level": 2,
-  "hexcasting:colorizer": [0x850808, 0x096fb3, 0x57047d],
-},
-
-// Talia0
-"a4e152c9-3d75-4b1a-9d90-f1c1e2280a05": {
-  "paucal:contributor_level": 1,
-},
-
-// Jotuc / marzi
-"efb446dd-8f74-4268-8d35-9dd07f8e25d7": {
-  "paucal:contributor_level": 3,
-  "paucal:pat_sound": "structural-damage"
-},
-
-// ValeriousMystery
-"84379358-c7a9-4e76-af7e-1b969fee9aef": {
-  "paucal:contributor_level": 3,
-  "hexcasting:colorizer": [0x06ffc9, 0x3da35a, 0x3b7e4f, 0x1d572e, 0xc0ffee],
-},
-
-// Rolahr
-"e857d388-f08d-43f0-b58b-c5c56146ced6": {
-  "paucal:contributor_level": 2,
-  "hexcasting:colorizer": [0x9d769b, 0x14d01c],
-},
-
-// KodeyTheNeko
-"4f5881d1-f953-4b34-b659-d5016aff4bab": {
-  "paucal:contributor_level": 4,
-  "hexcasting:colorizer": [0xedd0c8, 0xf5c5d3, 0xfdbadd, 0xd5b4e9, 0xadadf5],
-  "paucal:pat_sound": "discord",
-  "paucal:pat_variance": 0.0,
-},
-// And their alts: IsNotFake,
-"4c4d9c90-873e-4ce8-861e-36b3ce4f5cea": {
-  "paucal:contributor_level": 5,
-  "hexcasting:colorizer": [0xedd0c8, 0xf5c5d3, 0xfdbadd, 0xd5b4e9, 0xadadf5],
-  "paucal:pat_sound": "discord",
-  "paucal:pat_variance": 0.0,
-},
-// and SoftNFluffy
-"c2c54f06-1dfc-4153-82c3-1144b7941e51": {
-  "paucal:contributor_level": 5,
-  "hexcasting:colorizer": [0xedd0c8, 0xf5c5d3, 0xfdbadd, 0xd5b4e9, 0xadadf5],
-  "paucal:pat_sound": "discord",
-  "paucal:pat_variance": 0.0,
-},
-
-// TheOdiumWitch
-"06b19184-e0bb-48ab-abed-d3019d9e512b": {
-  "paucal:contributor_level": 2,
-  "hexcasting:colorizer": [0x00d0ff, 0xff2400, 0x9966cc],
-},
-
-// glidingspider / EmergencyTemporalShift
-"8c1b1b7a-fa01-490e-b607-f4c30eb6ac9b": {
-  "paucal:contributor_level": 2,
-  "hexcasting:colorizer": [0xffff00, 0xc0c0c0],
-},
-
-// LlamaLord9001
-"eba830d3-0f55-4bf6-a183-04f70d82dd14": {
-  "paucal:contributor_level": 2,
-  "hexcasting:colorizer": [0xccaaff],
-},
-
-// yoyotam3
-"1b89f395-b7c5-4bd4-87c1-055b7d9e5761": {
-  "paucal:contributor_level": 2,
-  "hexcasting:colorizer": [0x1380B2, 0x34BFFF],
-},
-
-// ArcanePhysics
-"22fd2deb-a4c3-4667-b9d6-4acd44b2345c": {
-  "paucal:contributor_level": 2,
-  "hexcasting:colorizer": [0x1380B2, 0x34BFFF],
-},
-
-// StygianNymph
-"2b45fdbd-b603-4017-8387-5a55a6d32725": {
-  "paucal:contributor_level": 1,
-},
-
-// ani0n
-"c101f531-a4cb-40fc-bc20-6a64121f8e3b": {
-  "paucal:contributor_level": 1,
-},
-
-// Ozymandeas
-"ed5b59ec-d4a4-44d2-9b72-6ef0281c4660": {
-  "paucal:contributor_level": 1,
-  "hexcasting:colorizer": [0x846dcf, 0x3b6665, 0x181236],
-  "paucal:pat_sound": [
-    "minecraft:mob/cat/purreow1",
-    "minecraft:mob/cat/purreow2",
-  ]
-},
-
-// KarpDevStudio
-"8dd66f26-933e-41b4-a7dd-1cd9146ca602": {
-  "paucal:contributor_level": 1,
-  
-},
-
-// _DoubleF_
-"4e0c1045-678c-4f8a-8221-1f3452d61da3": {
-  "paucal:contributor_level": 1,
-},
-
-// FractalSystem
-"b8d28f3e-4a9c-4d1c-a368-edc669d62a05": {
-  "paucal:contributor_level": 2,
-  "hexcasting:colorizer": [0xFF00FF, 0x00FF00],
-},
-
-// ThatGuyBlah
-"57dc7e4d-541d-440d-b79e-89e6df4024b1": {
-  "paucal:contributor_level": 3,
-  "hexcasting:colorizer": [0xFFD700, 0, 0x654321, 0xC9C1C1],
-  "paucal:pat_sound": "thatguyblah-wah",
-},
-
-// Aurellia79
-"a31d8405-b45d-40de-9c89-6b8489cce509": {
-  "paucal:contributor_level": 3,
-  "hexcasting:colorizer": [0xFFDD1C],
-  "paucal:pat_sound": [
-    "minecraft:mob/cat/purr1",
-    "minecraft:mob/cat/purr2",
-    "minecraft:mob/cat/purr3",
-  ],
-},
-
-// Player404
-"6627ed23-2aa8-471f-aaf4-599daf4e385e": {
-  "paucal:contributor_level": 1,
-  "hexcasting:colorizer": [0x62000B],
-},
-
-// DeadlyDiamond98
-"bd6a70bc-c3cd-47e0-b2f9-a1124b46ca25": {
-  "paucal:contributor_level": 1,
-},
-
-// Hauntwick
-"90aa9c9d-bec7-449a-bac5-ff030d0a39e7": {
-  "paucal:contributor_level": 1,
-},
-
-// Numilani
-"b5d20a3f-3616-4db9-97c0-051eeec6e9f1": {
-  "paucal:contributor_level": 1,
-},
-
-// RealCy
-"1b5a07b5-08e7-4213-b969-03e7ccd05b58": {
-  "paucal:contributor_level": 2,
-  "hexcasting:colorizer": [0x59D7FF, 0xFF89FF, 0xFFC615],
-},
-
-// SobalVoodle
-"1b5a07b5-08e7-4213-b969-03e7ccd05b58": {
-  "paucal:contributor_level": 3,
-  "paucal:pat_sound": [
-    "minecraft:block/bell/bell_use01",
-    "minecraft:block/bell/bell_use02",
-  ],
-},
-
-// Sage431
-"e6dc8009-d44f-4a7c-ad91-c0055f681dc4": {
-  "paucal:contributor_level": 1,
-},
-
-// Pejoume
-"675659e2-6cab-4496-b00e-de3eecb942f1": {
-  "paucal:contributor_level": 2,
-  "hexcasting:colorizer": [0x90EE90, 0x00FFFF],
-},
-
-// hexqua
-"59ec3ad7-c61b-47d0-9b47-69d2da2267d9": {
-  "paucal:contributor_level": 2,
-  "hexcasting:colorizer": [0x5C88D0],
-},
-
-// CaptainStubbs
-// in the google form they put "Captain Stubbs";
-// i'm assuming this is them
-"b408400c-be5d-4415-a927-a1fea2e7a9b2": {
-  "paucal:contributor_level": 1,
-},
-
-// Felphyre
-"aa4fe03c-8842-4514-a0bb-5f1f6333c117": {
-  "paucal:contributor_level": 1,
-},
-
-// Onyx_Tau
-"683d9638-730a-4406-b6f2-c86e8628c4da": {
-  "paucal:contributor_level": 2,
-  "hexcasting:colorizer": [0x613000, 0x00babd],
-},
-
-// Exlor64
-"d45f7a78-513c-43ed-b2f7-6447a92ddaf2": {
-  "paucal:contributor_level": 2,
-  "hexcasting:colorizer": [0x800080],
-},
-
-// _Tobix_
-"ac037977-10d7-418e-ac6d-237a4007281e": {
-  "paucal:contributor_level": 1,
-},
-
-// ArcticPrince
-"959d80c8-a679-4700-9a7e-a22aaa11d84a": {
-  "paucal:contributor_level": 3,
-  "hexcasting:colorizer": [0x00d2ff, 0xdcf2ff, 0xbbe6ff],
-  "paucal:pat_sound": ["minecraft:ambient/nether/soulsand_valley/sand1"],
-},
-
-// Odranrreb
-"da1c0fc4-4e5a-4e70-899d-cd9bb2ef88d8": {
-  "paucal:contributor_level": 2,
-},
-
-// Rappid_Rabbit
-"e51134c1-8b30-49fd-bca9-5ee3c0c056f0": {
-  "paucal:contributor_level": 1,
-},
-
-// U856
-"1f809a9f-45ae-43c9-8536-e388f2d537f4": {
-  "paucal:contributor_level": 1,
-},
-
-// LunarNightsDream
-"f1e7de57-910e-467c-b811-e9e35ba1f330": {
-  "paucal:contributor_level": 2,
-  "hexcasting:colorizer": [0xcddbfe, 0x0e2748],
-},
-
-// urix123
-"6a419733-b550-46d3-a21c-46656b801849": {
-  "paucal:contributor_level": 2,
-  "hexcasting:colorizer": [0xd094e0],
-},
-
-// Waveformal
-"9f39ae7d-7b32-4586-8a7e-5e4d15b7b4cd": {
-  "paucal:contributor_level": 2,
-  "hexcasting:colorizer": [0x228B22],
-},
-
-// Deloptin
-"12015fe4-dc20-409a-950d-c0a151f9ca4a": {
-  "paucal:contributor_level": 2,
-  // i don't think it's technically allowed to get a headpat with a lv2 pledge
-  // but whatever
-  "paucal:pat_sound": [
-    "minecraft:mob/allay/item_taken1",
-    "minecraft:mob/allay/item_taken2",
-    "minecraft:mob/allay/item_taken3",
-    "minecraft:mob/allay/item_taken4",
-  ],
-  "hexcasting:colorizer": [0xff6600, 0x9944ff, 0xff88ff],
-},
-
-// StormcallerWolf
-"92d46e41-a926-4e95-b5fd-3fdc76fd4634": {
-  "paucal:contributor_level": 3,
-  "hexcasting:colorizer": [0x953b73, 0x7d126c, 0x420451],
-  "paucal:pat_sound": "minecraft:block/amethyst_block/hit",
-},
-
-// =====
-// COOL PEOPLE
-// =====
-
-// MacyMacerator
-"29a10dc6-a201-4993-80d8-c847212bc92b": {
-  "paucal:contributor_level": 0,
-  "paucal:pat_sound": [
-    "minecraft:mob/cat/purr1",
-    "minecraft:mob/cat/purr2",
-    "minecraft:mob/cat/purr3",
-  ],
-  "hexcasting:colorizer": [25, 13948159, 20],
-},
-
-// nbyzantine
-"e055cae1-dd93-42b7-abad-8f2dc758a9f2": {
-  "paucal:contributor_level": 0,
-  "hexcasting:colorizer": [0xdfe0e8, 0xf2da00, 0xe66910, 0x383138],
-},
-
-// Noobulus
-"89719de3-6445-4445-abe2-509659db930d": {
-  "paucal:contributor_level": 0,
-  "hexcasting:colorizer": [0x92a1ff, 0x6b7fff],
-  "paucal:pat_sound": "ultra-instinct",
-  "paucal:pat_variance": 0
-},
-
-// DaniCherryJam
-"d475af59-d73c-42be-90ed-f1a78f10d452": {
-  "paucal:contributor_level": 0,
-  "paucal:pat_sound": [
-    "minecraft:mob/slime/small1",
-    "minecraft:mob/slime/small2",
-    "minecraft:mob/slime/small3",
-    "minecraft:mob/slime/small4",
-    "minecraft:mob/slime/small5"
-  ],
-  "paucal:pat_variance": 0
-},
-
-// yrsegal
-"458391f5-6303-4649-b416-e4c0d18f837a": {
-  "paucal:contributor_level": 0,
-  "paucal:pat_sound": "paucal:pet.wire",
-  "hexcasting:colorizer": [0x37826d, 0x388348, 0x23825c, 0x388349],
-},
-
-// SammySemicolon
-"0ca54301-6170-4c44-b3e0-b8afa6b81ed2": {
-  "paucal:contributor_level": 0,
-  "paucal:pat_sound": [
-    "minecraft:mob/cat/purr1",
-    "minecraft:mob/cat/purr2",
-    "minecraft:mob/cat/purr3",
-  ],
-},
-
-// najlitarvan (logo maker)
-"799e6817-c2e2-4bf5-816a-6415c4d6b8a1": {
-  "paucal:contributor_level": 0,
-  "hexcasting:colorizer": [0x2e2d47, 0xe87c0d],
-},
-
-// abean077 (quiner)
-"b1a9e0e5-6252-41a7-aeab-b5b7135c0a4b": {
-  "paucal:contributor_level": 0,
-  "hexcasting:colorizer": [
-    0x078d70, 0x26ceaa, 0x99e8c2, 0xffffff,
-    0x7bade3, 0x5049cb, 0x3e1a78, 0x800080, 
-    0xffffff, 0xa3a3a3, 0x0
-  ],
-},
-
-// CesiumHorizon (other quiner)
-"092edbda-bb80-4c39-89d6-120c2e478eee": {
-  "paucal:contributor_level": 0,
-  "hexcasting:colorizer": [0xe64539, 0xff8933, 0xf0b541, 0x92e8c0, 0x9c2a70, 0x4b1d52],
-},
-
-// LemmaEOF
-"3f5150ea-fade-4233-ad40-719e207154e9": {
-  "paucal:contributor_level": 0,
-  "paucal:pat_sound": "bwop",
-  "paucal:pat_variance": 0.1
-},
-
-// SleepyEmber
-"9380b46b-8de4-4a54-b454-88f33059c9ab": {
-  "paucal:contributor_level": 0,
-  "paucal:pat_sound": [
-    "minecraft:mob/cat/purr1",
-    "minecraft:mob/cat/purr2",
-    "minecraft:mob/cat/purr3",
-  ],
-  "paucal:pat_pitch": 0.9
-},
-
-// =====
-// Hexcasting Quote Contest Winners
-// ====
-
-// Ical92
-"d682d4df-e2eb-4b62-b41e-23becc7e01e5": {
-  "paucal:contributor_level": 0,
-  "hexcasting:colorizer": [0xcf0a8a],
-},
-
-// Goldgamesav
-"b34b707a-8429-4dbd-a7a2-a208cf2268b8": {
-    "paucal:contributor_level": 0,
-    "hexcasting:colorizer": [0xff3939, 0xffd543, 0xfffc43, 0xffffe3],
+{
+  // This is loaded by my library mod PAUCAL on game startup and is used for
+  // contributor rewards
+
+  // https://gameplay.tools/minecraft/uuid
+  // sadly has people's deadnames on it :(
+
+  // petra_the_kat
+  "a2ce9382-2518-4752-87b2-c6a5c97f173e": {
+    "paucal:contributor_level": 7604,
+    "paucal:is_dev": true,
+
+    "paucal:pat_sound": "minecraft:note/bit",
+    "paucal:pat_variance": 0.1,
+    "hexcasting:colorizer": [0xebad1c, 0xc7c7bd, 0x7c2e94, 0x2e060f],
   },
 
-// Taswin
-"816bedca-0bfa-4239-8b36-d234463b9c33": {
-  "paucal:contributor_level": 0,
-  "hexcasting:colorizer": [0x800300, 0x5f5f5f],
-},
+  // Dev (forge dummy player)
+  "380df991-f603-344c-a090-369bad2a924a": {
+    "paucal:contributor_level": 4,
+    "paucal:is_dev": true,
+    "paucal:pat_sound": ["bwop", "minecraft:note/bit"],
+    "paucal:pat_variance": 0.1,
+  },
+
+  // =====
+  // DEVS
+  // =====
+
+  // AmyMialee
+  "2793cdc6-7710-4e7e-9d81-cf918e067729": { 
+    "paucal:contributor_level": 0,
+    "paucal:is_dev": true,
+    "hexcasting:colorizer": [0xb992ff],
+  },
+
+  // Alwinfy
+  "64f6e5fc-981c-442c-8d6a-578e8e8cbcd3": {
+    "paucal:contributor_level": 0,
+    "paucal:is_dev": true,
+    "hexcasting:colorizer": [0x3327e3],
+  },
+
+  // Hubry
+  "b0a26f6b-d951-4b65-b824-b164b9bc4b90": {
+    "paucal:contributor_level": 0,
+    "paucal:is_dev": true,
+    "hexcasting:colorizer": [0x10e810, 0xe97dff, 0x33ffff],
+  },
+
+  // Falkory
+  "d30d8e38-6f93-4d96-968d-dd6ec5596941": {
+    "paucal:contributor_level": 0,
+    "paucal:is_dev": true,
+    "paucal:pat_sound": "minecraft:mob/wolf/panting",
+    "hexcasting:colorizer": [0xa11420, 0x291d2b],
+  },
+
+  // samsthenerd
+  "6f07899c-2b26-4221-8033-1f53f7a0e111": {
+    "paucal:contributor_level": 0,
+    "paucal:is_dev": true,
+    "hexcasting:colorizer": [0x69eb96, 0xeb69d7],
+  },
+
+  // vgskye
+  "866defaa-cf7a-47c8-9586-2707c84f240c": {
+    "paucal:contributor_level": 0,
+    "paucal:is_dev": true,
+    "hexcasting:colorizer": [0x55b9a3, 0x24917c],
+    "paucal:pat_sound": [
+      "minecraft:mob/fox/idle1",
+      "minecraft:mob/fox/idle2",
+      "minecraft:mob/fox/idle3",
+      "minecraft:mob/fox/idle4",
+      "minecraft:mob/fox/idle5",
+      "minecraft:mob/fox/idle6",
+    ],
+  },
+
+  // Navarchus_ (ratman)
+  "67443c2e-5c7c-40b9-85bc-8dc5190b44f8": {
+    "paucal:contributor_level": 0,
+    "paucal:is_dev": true,
+    "hexcasting:colorizer": [0xbd4cf8],
+    "paucal:pat_sound": [
+      "minecraft:mob/bat/idle1",
+      "minecraft:mob/bat/idle2",
+      "minecraft:mob/bat/idle3",
+      "minecraft:mob/bat/idle4",
+    ],
+  },
+
+  // =====
+  // PATRONS
+  // ====
+
+  // artemisSystem
+  "e96fa4b4-ece6-4a00-b144-1946ba9e31ec": {
+    "paucal:contributor_level": 3,
+    "paucal:pat_sound": "minecraft:note/bit",
+    "hexcasting:colorizer": [0xeb92ea, 0xffffff, 0x6ac2e4],
+  },
+
+  // TaterBlight
+  "83d0744b-6769-4cb9-9b27-d4dea603dd28": {
+    "paucal:contributor_level": 4,
+    "paucal:pat_sound": "splat",
+    "hexcasting:colorizer": [0x4c345c],
+  },
+
+  // SpottyTheTurtle
+  "c5e9fe6f-93aa-4b64-83b7-5a617e359757": {
+    "paucal:contributor_level": 4,
+    // technically they shouldn't have a colorizer
+    // but i'l give it to them for running the server
+    "hexcasting:colorizer": [0xfd8f38],
+  },
+
+  // techtime4 / Ceql
+  "43b4ed05-42a8-420b-8e9c-5e374267e9e9": {
+    "paucal:contributor_level": 1,
+    // They can still redeem a colorizer
+  },
+
+  // WildOats (stevebutnottoomanypeoplehaveit)
+  "968e572c-a6c1-4963-8399-0c64abd3820e": {
+    "paucal:contributor_level": 2,
+    "hexcasting:colorizer": [0x5f118a, 0x411db8],
+  },
+
+  // 4984
+  "2b8e38f6-448c-4e23-876e-ed65336d6388": {
+    "paucal:contributor_level": 1,
+  },
+
+  // KirinDave
+  "99a814a0-bff4-4526-bee6-4af5c74a6824": {
+    "paucal:contributor_level": 2,
+    "hexcasting:colorizer": [
+      0x000872, 0x651e5f, 0x902d40, 0xa83c22, 0xba5f1a, 0xdf9000
+    ],
+  },
+
+  // Kurotsune
+  "661ca73d-cfe5-488c-a3e9-b9714c06660f": {
+    "paucal:contributor_level": 2,
+    "hexcasting:colorizer": [0xaa0000, 0x0, 0x0050ff, 0x0],
+  },
+
+  // Dxier
+  "eda175aa-7bb0-4ff5-b787-c5466baa1237": {
+    "paucal:contributor_level": 3,
+    "paucal:pat_sound": "minecraft:random/click",
+    "paucal:pat_variance": 0.1
+    // Still needs colors
+  },
+
+  // Hudeler
+  "23978392-a78c-49cf-9f52-35a151fd4083": {
+    "paucal:contributor_level": 3,
+    "hexcasting:colorizer": [3544165, 4461376, 9437240],
+    "paucal:pat_sound": [
+      "minecraft:mob/endermen/idle1",
+      "minecraft:mob/endermen/idle2",
+      "minecraft:mob/endermen/idle3",
+      "minecraft:mob/endermen/idle4",
+    ],
+    "paucal:pat_pitch": 0.8,
+    "paucal:pat_variance": 0.1
+  },
+  // Hudelery, their alt
+  "7f21f2c5-4ee8-45a8-9e11-714b3af373b3": {
+    "paucal:contributor_level": 3,
+    "hexcasting:colorizer": [3544165, 4461376, 9437240],
+    "paucal:pat_sound": [
+      "minecraft:mob/cat/purr1",
+      "minecraft:mob/cat/purr2",
+      "minecraft:mob/cat/purr3",
+    ],
+  },
+
+  // foulfortunfeline
+  "f33801ef-0891-4b2d-951b-8b9503e24816": {
+    "paucal:contributor_level": 3,
+    "paucal:pat_sound": [
+      "minecraft:mob/cat/purr1",
+      "minecraft:mob/cat/purr2",
+      "minecraft:mob/cat/purr3",
+    ],
+    "hexcasting:colorizer": [0xff39f1, 0x8b00db, 0xff38c7, 0x650072],
+  },
+
+  // AnkhLord
+  "caabdb4f-9772-476a-8545-c1118c71ffb1": {
+    "paucal:contributor_level": 2,
+    "hexcasting:colorizer": [0x00c3ff, 0x0044ff, 0x3b00ff, 0x0],
+  },
+
+  // object_Object
+  "cd274e7b-ae7f-4aa3-a8da-b3ba5b896c8b": {
+    "paucal:contributor_level": 2,
+    "paucal:pat_sound": ["hexbug"],
+    "hexcasting:colorizer": [0xffffff, 0x0080ff],
+  },
+
+  // gchpacho
+  "a1c40d68-8734-4e16-9716-69c63bea6f15": {
+    "paucal:contributor_level": 2,
+    "hexcasting:colorizer": [0x314267],
+  },
+
+  // Kinomoru
+  "eec9c96b-d30b-4e1f-b38b-a9985c2c9118": {
+    "paucal:contributor_level": 2,
+    "hexcasting:colorizer": [0x6495D9, 0x99DAD2, 0x5850A2],
+  },
+
+  // PhantomEnderium
+  "5ed4a488-71ee-471b-bb19-68e738ddffc8": {
+    "paucal:contributor_level": 2,
+    "hexcasting:colorizer": [0x850808, 0x096fb3, 0x57047d],
+  },
+
+  // Talia0
+  "a4e152c9-3d75-4b1a-9d90-f1c1e2280a05": {
+    "paucal:contributor_level": 1,
+  },
+
+  // Jotuc / marzi
+  "efb446dd-8f74-4268-8d35-9dd07f8e25d7": {
+    "paucal:contributor_level": 3,
+    "paucal:pat_sound": "structural-damage"
+  },
+
+  // ValeriousMystery
+  "84379358-c7a9-4e76-af7e-1b969fee9aef": {
+    "paucal:contributor_level": 3,
+    "hexcasting:colorizer": [0x06ffc9, 0x3da35a, 0x3b7e4f, 0x1d572e, 0xc0ffee],
+  },
+
+  // Rolahr
+  "e857d388-f08d-43f0-b58b-c5c56146ced6": {
+    "paucal:contributor_level": 2,
+    "hexcasting:colorizer": [0x9d769b, 0x14d01c],
+  },
+
+  // KodeyTheNeko
+  "4f5881d1-f953-4b34-b659-d5016aff4bab": {
+    "paucal:contributor_level": 4,
+    "hexcasting:colorizer": [0xedd0c8, 0xf5c5d3, 0xfdbadd, 0xd5b4e9, 0xadadf5],
+    "paucal:pat_sound": "discord",
+    "paucal:pat_variance": 0.0,
+  },
+  // And their alts: IsNotFake,
+  "4c4d9c90-873e-4ce8-861e-36b3ce4f5cea": {
+    "paucal:contributor_level": 5,
+    "hexcasting:colorizer": [0xedd0c8, 0xf5c5d3, 0xfdbadd, 0xd5b4e9, 0xadadf5],
+    "paucal:pat_sound": "discord",
+    "paucal:pat_variance": 0.0,
+  },
+  // and SoftNFluffy
+  "c2c54f06-1dfc-4153-82c3-1144b7941e51": {
+    "paucal:contributor_level": 5,
+    "hexcasting:colorizer": [0xedd0c8, 0xf5c5d3, 0xfdbadd, 0xd5b4e9, 0xadadf5],
+    "paucal:pat_sound": "discord",
+    "paucal:pat_variance": 0.0,
+  },
+
+  // TheOdiumWitch
+  "06b19184-e0bb-48ab-abed-d3019d9e512b": {
+    "paucal:contributor_level": 2,
+    "hexcasting:colorizer": [0x00d0ff, 0xff2400, 0x9966cc],
+  },
+
+  // glidingspider / EmergencyTemporalShift
+  "8c1b1b7a-fa01-490e-b607-f4c30eb6ac9b": {
+    "paucal:contributor_level": 2,
+    "hexcasting:colorizer": [0xffff00, 0xc0c0c0],
+  },
+
+  // LlamaLord9001
+  "eba830d3-0f55-4bf6-a183-04f70d82dd14": {
+    "paucal:contributor_level": 2,
+    "hexcasting:colorizer": [0xccaaff],
+  },
+
+  // yoyotam3
+  "1b89f395-b7c5-4bd4-87c1-055b7d9e5761": {
+    "paucal:contributor_level": 2,
+    "hexcasting:colorizer": [0x1380B2, 0x34BFFF],
+  },
+
+  // ArcanePhysics
+  "22fd2deb-a4c3-4667-b9d6-4acd44b2345c": {
+    "paucal:contributor_level": 2,
+    "hexcasting:colorizer": [0x1380B2, 0x34BFFF],
+  },
+
+  // StygianNymph
+  "2b45fdbd-b603-4017-8387-5a55a6d32725": {
+    "paucal:contributor_level": 1,
+  },
+
+  // ani0n
+  "c101f531-a4cb-40fc-bc20-6a64121f8e3b": {
+    "paucal:contributor_level": 1,
+  },
+
+  // Ozymandeas
+  "ed5b59ec-d4a4-44d2-9b72-6ef0281c4660": {
+    "paucal:contributor_level": 1,
+    "hexcasting:colorizer": [0x846dcf, 0x3b6665, 0x181236],
+    "paucal:pat_sound": [
+      "minecraft:mob/cat/purreow1",
+      "minecraft:mob/cat/purreow2",
+    ]
+  },
+
+  // KarpDevStudio
+  "8dd66f26-933e-41b4-a7dd-1cd9146ca602": {
+    "paucal:contributor_level": 1,
+    
+  },
+
+  // _DoubleF_
+  "4e0c1045-678c-4f8a-8221-1f3452d61da3": {
+    "paucal:contributor_level": 1,
+  },
+
+  // FractalSystem
+  "b8d28f3e-4a9c-4d1c-a368-edc669d62a05": {
+    "paucal:contributor_level": 2,
+    "hexcasting:colorizer": [0xFF00FF, 0x00FF00],
+  },
+
+  // ThatGuyBlah
+  "57dc7e4d-541d-440d-b79e-89e6df4024b1": {
+    "paucal:contributor_level": 3,
+    "hexcasting:colorizer": [0xFFD700, 0, 0x654321, 0xC9C1C1],
+    "paucal:pat_sound": "thatguyblah-wah",
+  },
+
+  // Aurellia79
+  "a31d8405-b45d-40de-9c89-6b8489cce509": {
+    "paucal:contributor_level": 3,
+    "hexcasting:colorizer": [0xFFDD1C],
+    "paucal:pat_sound": [
+      "minecraft:mob/cat/purr1",
+      "minecraft:mob/cat/purr2",
+      "minecraft:mob/cat/purr3",
+    ],
+  },
+
+  // Player404
+  "6627ed23-2aa8-471f-aaf4-599daf4e385e": {
+    "paucal:contributor_level": 1,
+    "hexcasting:colorizer": [0x62000B],
+  },
+
+  // DeadlyDiamond98
+  "bd6a70bc-c3cd-47e0-b2f9-a1124b46ca25": {
+    "paucal:contributor_level": 1,
+  },
+
+  // Hauntwick
+  "90aa9c9d-bec7-449a-bac5-ff030d0a39e7": {
+    "paucal:contributor_level": 1,
+  },
+
+  // Numilani
+  "b5d20a3f-3616-4db9-97c0-051eeec6e9f1": {
+    "paucal:contributor_level": 1,
+  },
+
+  // RealCy
+  "1b5a07b5-08e7-4213-b969-03e7ccd05b58": {
+    "paucal:contributor_level": 2,
+    "hexcasting:colorizer": [0x59D7FF, 0xFF89FF, 0xFFC615],
+  },
+
+  // SobalVoodle
+  "1b5a07b5-08e7-4213-b969-03e7ccd05b58": {
+    "paucal:contributor_level": 3,
+    "paucal:pat_sound": [
+      "minecraft:block/bell/bell_use01",
+      "minecraft:block/bell/bell_use02",
+    ],
+  },
+
+  // Sage431
+  "e6dc8009-d44f-4a7c-ad91-c0055f681dc4": {
+    "paucal:contributor_level": 1,
+  },
+
+  // Pejoume
+  "675659e2-6cab-4496-b00e-de3eecb942f1": {
+    "paucal:contributor_level": 2,
+    "hexcasting:colorizer": [0x90EE90, 0x00FFFF],
+  },
+
+  // hexqua
+  "59ec3ad7-c61b-47d0-9b47-69d2da2267d9": {
+    "paucal:contributor_level": 2,
+    "hexcasting:colorizer": [0x5C88D0],
+  },
+
+  // CaptainStubbs
+  // in the google form they put "Captain Stubbs";
+  // i'm assuming this is them
+  "b408400c-be5d-4415-a927-a1fea2e7a9b2": {
+    "paucal:contributor_level": 1,
+  },
+
+  // Felphyre
+  "aa4fe03c-8842-4514-a0bb-5f1f6333c117": {
+    "paucal:contributor_level": 1,
+  },
+
+  // Onyx_Tau
+  "683d9638-730a-4406-b6f2-c86e8628c4da": {
+    "paucal:contributor_level": 2,
+    "hexcasting:colorizer": [0x613000, 0x00babd],
+  },
+
+  // Exlor64
+  "d45f7a78-513c-43ed-b2f7-6447a92ddaf2": {
+    "paucal:contributor_level": 2,
+    "hexcasting:colorizer": [0x800080],
+  },
+
+  // _Tobix_
+  "ac037977-10d7-418e-ac6d-237a4007281e": {
+    "paucal:contributor_level": 1,
+  },
+
+  // ArcticPrince
+  "959d80c8-a679-4700-9a7e-a22aaa11d84a": {
+    "paucal:contributor_level": 3,
+    "hexcasting:colorizer": [0x00d2ff, 0xdcf2ff, 0xbbe6ff],
+    "paucal:pat_sound": ["minecraft:ambient/nether/soulsand_valley/sand1"],
+  },
+
+  // Odranrreb
+  "da1c0fc4-4e5a-4e70-899d-cd9bb2ef88d8": {
+    "paucal:contributor_level": 2,
+  },
+
+  // Rappid_Rabbit
+  "e51134c1-8b30-49fd-bca9-5ee3c0c056f0": {
+    "paucal:contributor_level": 1,
+  },
+
+  // U856
+  "1f809a9f-45ae-43c9-8536-e388f2d537f4": {
+    "paucal:contributor_level": 1,
+  },
+
+  // LunarNightsDream
+  "f1e7de57-910e-467c-b811-e9e35ba1f330": {
+    "paucal:contributor_level": 2,
+    "hexcasting:colorizer": [0xcddbfe, 0x0e2748],
+  },
+
+  // urix123
+  "6a419733-b550-46d3-a21c-46656b801849": {
+    "paucal:contributor_level": 2,
+    "hexcasting:colorizer": [0xd094e0],
+  },
+
+  // Waveformal
+  "9f39ae7d-7b32-4586-8a7e-5e4d15b7b4cd": {
+    "paucal:contributor_level": 2,
+    "hexcasting:colorizer": [0x228B22],
+  },
+
+  // Deloptin
+  "12015fe4-dc20-409a-950d-c0a151f9ca4a": {
+    "paucal:contributor_level": 2,
+    // i don't think it's technically allowed to get a headpat with a lv2 pledge
+    // but whatever
+    "paucal:pat_sound": [
+      "minecraft:mob/allay/item_taken1",
+      "minecraft:mob/allay/item_taken2",
+      "minecraft:mob/allay/item_taken3",
+      "minecraft:mob/allay/item_taken4",
+    ],
+    "hexcasting:colorizer": [0xff6600, 0x9944ff, 0xff88ff],
+  },
+
+  // StormcallerWolf
+  "92d46e41-a926-4e95-b5fd-3fdc76fd4634": {
+    "paucal:contributor_level": 3,
+    "hexcasting:colorizer": [0x953b73, 0x7d126c, 0x420451],
+    "paucal:pat_sound": "minecraft:block/amethyst_block/hit",
+  },
+
+  // =====
+  // COOL PEOPLE
+  // =====
+
+  // MacyMacerator
+  "29a10dc6-a201-4993-80d8-c847212bc92b": {
+    "paucal:contributor_level": 0,
+    "paucal:pat_sound": [
+      "minecraft:mob/cat/purr1",
+      "minecraft:mob/cat/purr2",
+      "minecraft:mob/cat/purr3",
+    ],
+    "hexcasting:colorizer": [25, 13948159, 20],
+  },
+
+  // nbyzantine
+  "e055cae1-dd93-42b7-abad-8f2dc758a9f2": {
+    "paucal:contributor_level": 0,
+    "hexcasting:colorizer": [0xdfe0e8, 0xf2da00, 0xe66910, 0x383138],
+  },
+
+  // Noobulus
+  "89719de3-6445-4445-abe2-509659db930d": {
+    "paucal:contributor_level": 0,
+    "hexcasting:colorizer": [0x92a1ff, 0x6b7fff],
+    "paucal:pat_sound": "ultra-instinct",
+    "paucal:pat_variance": 0
+  },
+
+  // DaniCherryJam
+  "d475af59-d73c-42be-90ed-f1a78f10d452": {
+    "paucal:contributor_level": 0,
+    "paucal:pat_sound": [
+      "minecraft:mob/slime/small1",
+      "minecraft:mob/slime/small2",
+      "minecraft:mob/slime/small3",
+      "minecraft:mob/slime/small4",
+      "minecraft:mob/slime/small5"
+    ],
+    "paucal:pat_variance": 0
+  },
+
+  // yrsegal
+  "458391f5-6303-4649-b416-e4c0d18f837a": {
+    "paucal:contributor_level": 0,
+    "paucal:pat_sound": "paucal:pet.wire",
+    "hexcasting:colorizer": [0x37826d, 0x388348, 0x23825c, 0x388349],
+  },
+
+  // SammySemicolon
+  "0ca54301-6170-4c44-b3e0-b8afa6b81ed2": {
+    "paucal:contributor_level": 0,
+    "paucal:pat_sound": [
+      "minecraft:mob/cat/purr1",
+      "minecraft:mob/cat/purr2",
+      "minecraft:mob/cat/purr3",
+    ],
+  },
+
+  // najlitarvan (logo maker)
+  "799e6817-c2e2-4bf5-816a-6415c4d6b8a1": {
+    "paucal:contributor_level": 0,
+    "hexcasting:colorizer": [0x2e2d47, 0xe87c0d],
+  },
+
+  // abean077 (quiner)
+  "b1a9e0e5-6252-41a7-aeab-b5b7135c0a4b": {
+    "paucal:contributor_level": 0,
+    "hexcasting:colorizer": [
+      0x078d70, 0x26ceaa, 0x99e8c2, 0xffffff,
+      0x7bade3, 0x5049cb, 0x3e1a78, 0x800080, 
+      0xffffff, 0xa3a3a3, 0x0
+    ],
+  },
+
+  // CesiumHorizon (other quiner)
+  "092edbda-bb80-4c39-89d6-120c2e478eee": {
+    "paucal:contributor_level": 0,
+    "hexcasting:colorizer": [0xe64539, 0xff8933, 0xf0b541, 0x92e8c0, 0x9c2a70, 0x4b1d52],
+  },
+
+  // LemmaEOF
+  "3f5150ea-fade-4233-ad40-719e207154e9": {
+    "paucal:contributor_level": 0,
+    "paucal:pat_sound": "bwop",
+    "paucal:pat_variance": 0.1
+  },
+
+  // SleepyEmber
+  "9380b46b-8de4-4a54-b454-88f33059c9ab": {
+    "paucal:contributor_level": 0,
+    "paucal:pat_sound": [
+      "minecraft:mob/cat/purr1",
+      "minecraft:mob/cat/purr2",
+      "minecraft:mob/cat/purr3",
+    ],
+    "paucal:pat_pitch": 0.9
+  },
+
+  // =====
+  // Hexcasting Quote Contest Winners
+  // ====
+
+  // Ical92
+  "d682d4df-e2eb-4b62-b41e-23becc7e01e5": {
+    "paucal:contributor_level": 0,
+    "hexcasting:colorizer": [0xcf0a8a],
+  },
+
+  // Goldgamesav
+  "b34b707a-8429-4dbd-a7a2-a208cf2268b8": {
+      "paucal:contributor_level": 0,
+      "hexcasting:colorizer": [0xff3939, 0xffd543, 0xfffc43, 0xffffe3],
+    },
+
+  // Taswin
+  "816bedca-0bfa-4239-8b36-d234463b9c33": {
+    "paucal:contributor_level": 0,
+    "hexcasting:colorizer": [0x800300, 0x5f5f5f],
+  },
+}
